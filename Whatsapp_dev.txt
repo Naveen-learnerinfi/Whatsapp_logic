@@ -11,5 +11,6 @@
 5) Status message code 
 
 6) Hide seen code implementation
-
+7) video chat code logic
+8) Audio chat code logic
                                       
